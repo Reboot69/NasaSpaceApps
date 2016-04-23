@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: e807edad77bd779448d69909a30e94e5
+timeCreated: 1461374445
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 020
+    100002: //RootNode
+    100004: BezierCircle
+    100006: bldg_windows
+    100008: mesh01
+    100010: mesh01_MeshPart0
+    100012: mesh01_MeshPart1
+    100014: pt_spinner
+    100016: pt_sponson
+    100018: Radar
+    100020: Radar_001
+    100022: Radar_002
+    100024: Radar_003
+    400000: 020
+    400002: //RootNode
+    400004: BezierCircle
+    400006: bldg_windows
+    400008: mesh01
+    400010: mesh01_MeshPart0
+    400012: mesh01_MeshPart1
+    400014: pt_spinner
+    400016: pt_sponson
+    400018: Radar
+    400020: Radar_001
+    400022: Radar_002
+    400024: Radar_003
+    2300000: 020
+    2300002: BezierCircle
+    2300004: bldg_windows
+    2300006: mesh01_MeshPart0
+    2300008: mesh01_MeshPart1
+    2300010: pt_spinner
+    2300012: pt_sponson
+    2300014: Radar
+    2300016: Radar_001
+    2300018: Radar_002
+    2300020: Radar_003
+    3300000: 020
+    3300002: BezierCircle
+    3300004: bldg_windows
+    3300006: mesh01_MeshPart0
+    3300008: mesh01_MeshPart1
+    3300010: pt_spinner
+    3300012: pt_sponson
+    3300014: Radar
+    3300016: Radar_001
+    3300018: Radar_002
+    3300020: Radar_003
+    4300000: 020
+    4300002: BezierCircle
+    4300004: bldg_windows
+    4300006: mesh01_MeshPart0
+    4300008: mesh01_MeshPart1
+    4300010: pt_spinner
+    4300012: pt_sponson
+    4300014: Radar
+    4300016: Radar_001
+    4300018: Radar_002
+    4300020: Radar_003
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
